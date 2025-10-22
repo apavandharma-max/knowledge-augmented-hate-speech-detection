@@ -1,0 +1,1 @@
+nltk\nspacy\ntransformers\ntorchvision\nopencv-python\nrdflib\nnetworkx\ntorch\npytest\nunittest
